@@ -1,0 +1,6 @@
+language: java
+deploy:
+  provider: heroku
+  app: damp-refuge-11636
+  api_key:
+    secure: GH3c/j+ugpquEWxUJCypTovtg9a51NdIhmPlk4lzkHqpUOxHA8F2XnNahwbQpFlmK7F/RZGkEFZ3GKMZuju5KoX+Yjx0t+pWo/d74sj266RX0NIz8xGDIUui8PJR1IGjss/FkEPu5mNFFi7ZMY0MO8ceNeZAeo7jK6DT+D2CO/DI23ao77shes+Rv/4WnXL4zxr+PWVKg2RMdXffVFngWwO6yiUTB/s4C+sMuzqHogXuERCP6K4wXto7nHPZPC2tfeKm//3w5mTqiDANzkeOp84+rtL6oAUYI5nRKY30CnnfdkMThwfxyUqnDPXDWDkdcgf/soZbPDFppoG9JctQkbcLN+THry6k1OU5/0XztHjyEb/spO11ws7FleH+LaDI4q8/ldVxdqUQ20pQ2IU1lbwXqKkByKDFIl4TfenxKasrHhHTC0+6dNLHjpxDz9T8id3sdiC46c9V/rY/TU3vlNVp/ruS5cOnZbsxymPRB/VcMQHc10fjcLhAY5MDwJQccbvYmiDDX7yta/9bESUkdxKC7HuD/lotOyxyDBiTWuehJIUzhBfLxBCF0EjOdLkWLCup/DoWnEIEz+55tixgt4B0VJ73KVUJ8cM0AjmFu51WKJddLA5fBwz3FdL5+S8XzkOcDHws036/qIXrqvwmLi2A4em7I4Bv7BgpSjtbdWs=
