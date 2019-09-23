@@ -12,11 +12,11 @@ fun main(args: Array<String>) {
     runApplication<DevopsApplication>(*args)
 
     @RestController
-    class SomeController {
+    class HomeController {
 
-        @RequestMapping("/hello")
-        fun hello(): String {
-            return "world";
+        @RequestMapping("/")
+        fun landing(): String {
+            return "This is the landing page";
         }
 
     }
