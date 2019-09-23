@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
 
         @RequestMapping("/")
         fun landing(): String {
-            return "This is the landing page";
+            return "This is the new landing page";
         }
 
     }
